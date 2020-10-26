@@ -1,0 +1,63 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.page {
+  position: relative;
+}
+.left {
+  float: left;
+  width: 55%;
+}
+
+.middle {
+  width: 5%;
+}
+.right {
+  float: right;
+  width: 40%;
+}
+
+a {
+  color: #228b22;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #8fbc8f;
+}
+
+p,
+li {
+  font-size: 12px;
+}
+span {
+  font-size: 10px;
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: bold;
+  border-bottom: 1px solid gray;
+}
+h3 {
+  font-size: 16px;
+}
+
+h6 {
+  font-size: 14px;
+}
+
+h3,
+h5 {
+  margin-bottom: 0px;
+}
+
+.profile-pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 150px;
+  width: 150px;
+  border-radius: 5%;
+}
