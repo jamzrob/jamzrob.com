@@ -163,7 +163,7 @@ layout: default
     </h3>
     <ul>
       <li>
-    Designed to add a sense of spontaneity into modern life by planning an evening out filled with random activite
+    Designed to add a sense of spontaneity into modern life by planning an evening out filled with random activities.
       </li>
     </ul>
   </h6>
@@ -173,7 +173,27 @@ layout: default
     </h3>
     <ul>
       <li>
-      Enhance the reading experience by selecting songs based on the mood of the text
+      Enhance the reading experience by selecting songs based on the mood of the text. Built for SlashHacks.
+      </li>
+    </ul>
+  </h6>
+  <h6>
+    <h3>
+      <a href="https://github.com/jamzrob/Stock_Up">Stock Up</a>
+    </h3>
+    <ul>
+      <li>
+      A web application that provides stock market data on every company listed on the NYSE, AMEX, and NASDAQ for the last 20 years and allows analysis with D3. Built for PennApps.
+      </li>
+    </ul>
+  </h6>
+  <h6>
+    <h3>
+      <a href="https://github.com/jamzrob/3D_Pong">3D Pong</a>
+    </h3>
+    <ul>
+      <li>
+       Score points on your opponenet by moving your phone to hit the ball to the opposite side of the room.
       </li>
     </ul>
   </h6>
