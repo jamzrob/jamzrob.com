@@ -29,7 +29,7 @@ github_username: jamzrob
 
 # Build settings
 header_pages:
-  - qoutes.md
+  - quotes.md
 theme: minima
 plugins:
   - jekyll-feed
