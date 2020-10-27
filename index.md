@@ -62,7 +62,7 @@ layout: default
 
   <h3>
     <a href="https://www.changeplusplus.org/">Change++</a>
-    <h5>President + Founder<span> [April 2018 – October 2020]</span></h5>
+    <h5>President/Founder<span> [April 2018 – October 2020]</span></h5>
   </h3>
   <ul>
     <li>Developing technical solutions for nonprofit organizations (React, React Native, AWS)</li>
