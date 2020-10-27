@@ -153,7 +153,7 @@ layout: default
     </h3>
     <ul>
       <li>
-    Built in partnership with the <a href="https://www.ibj.org">International Bridges of Justice</a> to provide support for individuals in developing nations needing legal
+    Built in partnership with the <a href="https://www.ibj.org">International Bridges of Justice</a> to provide support for individuals in developing nations needing legal counsel
       </li>
     </ul>
   </h6>
