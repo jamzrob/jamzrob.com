@@ -111,7 +111,7 @@ layout: default
   </ul>
   <h2>Awards</h2>
   <h6>
-    Top Ten Oustanding Senior Vanderiblt
+    Top Ten Oustanding Senior Vanderbilt
     <span>October 2020</span>
   </h6>
   <h6>
