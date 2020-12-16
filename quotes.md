@@ -22,3 +22,5 @@ permalink: /quotes/
 > Uncurious people do not lead examined lives; they cannot see causes that lie deep than the surface [Yvon Chouinard](https://www.amazon.com/Let-People-Surfing-Education-Businessman/dp/0143037838)
 
 > His ruling force was focus. Time existed for him not in some promising future of sentimental past but in the present condition, the intricate web of problems and solutions, imagination and code. [reference to John Carmack](https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155/ref=sr_1_1?dchild=1&keywords=masters+of+Doom&qid=1603829733&s=books&sr=1-1)
+
+> For scientific leadership give me Scott; for swift and efficient travel, Amundsen; but when you are in a hopeless situation, when there seems no way out, get down on your knees and pray for Shackleton. [Alfred Lansing](https://www.amazon.com/Endurance-Shackletons-Incredible-Alfred-Lansing/dp/0465062881_) 
